@@ -1,0 +1,3 @@
+# Data Analysis with Python
+Data Analysis has been around for a along time and previously developers practiced it using expensive closed-source tools like Tableau. but recently Python,SQL and other open source libraries like Numpy, Pandas,Matplotlib ad Seaborn.
+In this Data Analysis with Python FreeCodeCamp certification  course, I will learn the fundamentals of data analysis with Python and by the end of this certification i will know how to read data form sources like CSVs and SQL and learn to use the open source libraries to process and visualize data.

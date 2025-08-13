@@ -1,6 +1,9 @@
 # FreeCodeCamp Pandas Real-Life Example Course
 
 Welcome to the **FreeCodeCamp Pandas Real-Life Example Course**!  By Lewis Kariuki which was forked then cloned from the freecode camp Data analysis with python course.
+
+In this Data Analysis with Python FreeCodeCamp certification  course, I will learn the fundamentals of data analysis with Python and by the end of this certification i will know how to read data form sources like CSVs and SQL and learn to use the open source libraries like Numpy, Pandas,Matplotlib ad Seaborn. to process and visualize data.
+
 This course provides hands-on data analysis exercises using Python and Pandas, focusing on real-world datasets from retail and DVD rental domains.
 
 ---
