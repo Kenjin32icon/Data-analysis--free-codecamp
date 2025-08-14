@@ -27,6 +27,9 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │   ├── yfinance training/
 │   │   │   ├── yfinance_script.py
 │   │   │   ├── my yfinance notes.md
+│   │   │   ├── yfinance-test.ipynb
+│   │   │   ├── AAPL_historical_data.csv// test result data from the yfinance-test.ipynb
+│   │   │   ├── notes.md
 │   │   │   └── yfinance notes from geeksforgeeks.md
 │   │   └── ...other notebooks and scripts...
 │   └── ...other class folders...
