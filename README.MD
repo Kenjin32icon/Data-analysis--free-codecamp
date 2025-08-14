@@ -1,37 +1,72 @@
 # FreeCodeCamp Pandas Real-Life Example Course
 
-Welcome to the **FreeCodeCamp Pandas Real-Life Example Course**!  By Lewis Kariuki which was forked then cloned from the freecode camp Data analysis with python course.
+Welcome to the **FreeCodeCamp Pandas Real-Life Example Course**!  
+By Lewis Kariuki, forked and adapted from FreeCodeCamp's Data Analysis with Python course.
 
-In this Data Analysis with Python FreeCodeCamp certification  course, I will learn the fundamentals of data analysis with Python and by the end of this certification i will know how to read data form sources like CSVs and SQL and learn to use the open source libraries like Numpy, Pandas,Matplotlib ad Seaborn. to process and visualize data.
+This project helps you learn the fundamentals of data analysis with Python. By the end, you'll know how to read data from sources like CSVs and SQL, and use open-source libraries such as Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
 
-This course provides hands-on data analysis exercises using Python and Pandas, focusing on real-world datasets from retail and DVD rental domains.
+The course provides hands-on exercises using Python and Pandas, focusing on real-world datasets from retail and DVD rental domains.
 
 ---
 
 ## Project Structure
-FreeCodeCamp-Pandas-Real-Life-Example-master/ │ 
-    ├── Exercises_1.ipynb # Bike store sales analysis exercises 
-    ├── Exercises_2.ipynb # Sakila DVD rental database exercises 
-    ├── Lecture_1.ipynb # Guided bike store sales analysis 
-    ├── Lecture_2.ipynb # Guided Sakila database analysis 
-    ├── data/ 
-    │ 
-    ├── chinook.db # Chinook sample database (SQLite) 
-    │ 
-    ├── sakila.db # Sakila sample database (SQLite) 
-    │ 
-    └── sales_data.csv # Bike store sales data (CSV) 
-    │ 
-    └── README.md # Course and project overview
 
+```
+├── Classes/
+│   ├── 1. Introduction to Data Analysis
+│   │        └──notes.md
+│   ├── 2. Data Analysis Example A
+│   │        └──notes.md
+│   ├── 3. Data Analysis Example B
+│   │        └──notes.md
+│   ├── 4. How to use Jupyter Notebooks Intro
+│   │       ├──test.ipynb
+│   │        └──notes.md
+│   ├── 5. Jupyter Notebooks Cells
+│   ├── 6. Jupyter Notebooks Importing and Exporting Data/
+│   │   ├── yfinance training/
+│   │   │   ├── yfinance_script.py
+│   │   │   ├── my yfinance notes.md
+│   │   │   └── yfinance notes from geeksforgeeks.md
+│   │   └── ...other notebooks and scripts...
+│   └── ...other class folders...
+FreeCodeCamp-Pandas-Real-Life-Example-master/
+│
+├── Exercises_1.ipynb      # Bike store sales analysis exercises
+├── Exercises_2.ipynb      # Sakila DVD rental database exercises
+├── Lecture_1.ipynb        # Guided bike store sales analysis
+├── Lecture_2.ipynb        # Guided Sakila database analysis
+├── data/
+│   ├── chinook.db         # Chinook sample database (SQLite)
+│   ├── sakila.db          # Sakila sample database (SQLite)
+│   └── sales_data.csv     # Bike store sales data (CSV)
+
+└── README.md              # Course and project overview
+```
 
 ---
 
 ## Datasets
 
-- **sales_data.csv**: Realistic bike store sales data, including customer demographics, product categories, and transaction details.
-- **sakila.db**: The Sakila DVD rental database, a normalized schema modeling a rental store (films, actors, rentals, etc.).
-- **chinook.db**: The Chinook music store database (optional, for advanced exercises).
+- **sales_data.csv**: Bike store sales data, including customer demographics, product categories, and transaction details.
+- **sakila.db**: Sakila DVD rental database, modeling a rental store (films, actors, rentals, etc.).
+- **chinook.db**: Chinook music store database (optional, for advanced exercises).
+
+---
+
+## Classes Directory
+
+The `Classes/` folder contains additional learning resources and practical notebooks, including:
+
+- **Jupyter Notebooks Importing and Exporting Data**:  
+  - Practice with importing/exporting data in various formats.
+  - Includes a `yfinance training` subfolder with scripts and notes for fetching and analyzing financial data from Yahoo Finance using the `yfinance` Python library.
+  - Example:  
+    - `yfinance_script.py`: Script to fetch financial data.
+    - `my yfinance notes.md`: Notes and sample outputs from running the script.
+    - `yfinance notes from geeksforgeeks.md`: Reference notes from GeeksforGeeks.
+
+Explore these materials for hands-on experience with real-world data sources and APIs.
 
 ---
 
@@ -40,9 +75,10 @@ FreeCodeCamp-Pandas-Real-Life-Example-master/ │
 - Loading and exploring datasets with Pandas
 - Data cleaning, wrangling, and transformation
 - Statistical analysis and summary statistics
-- Data visualization with Matplotlib (histograms, box plots, scatter plots, pie charts, KDE)
+- Data visualization with Matplotlib and Seaborn (histograms, box plots, scatter plots, pie charts, KDE)
 - Grouping, aggregation, and pivot tables
 - Working with SQL databases in Python
+- Fetching and analyzing financial data with `yfinance`
 - Real-world business insights from sales and rental data
 
 ---
@@ -52,21 +88,22 @@ FreeCodeCamp-Pandas-Real-Life-Example-master/ │
 1. **Install requirements**:  
    - Python 3.x  
    - Jupyter Notebook or JupyterLab  
-   - pandas, matplotlib, numpy, sqlite3
+   - pandas, matplotlib, numpy, seaborn, sqlite3, yfinance
 
 2. **Open the notebooks**:  
    - Start with `Lecture_1.ipynb` and `Lecture_2.ipynb` for guided walkthroughs.
    - Try `Exercises_1.ipynb` and `Exercises_2.ipynb` for hands-on practice.
+   - Explore the `Classes/` directory for additional examples and scripts.
 
 3. **Explore the data**:  
-   - Use the provided datasets in the `data/` folder.
+   - Use the datasets in the `data/` folder and try fetching new data with `yfinance`.
 
 ---
 
 ## Course Authors
 
 - [rmotr.com](https://rmotr.com/data-science-python-course)
-- Adapted for FreeCodeCamp
+- Adapted for FreeCodeCamp by Lewis Kariuki
 
 ---
 
