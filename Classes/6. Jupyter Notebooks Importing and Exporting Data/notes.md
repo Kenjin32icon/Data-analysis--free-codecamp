@@ -1,2 +1,4 @@
-The main python library for visusalization is matplotlib to visualize data through images and animations. Mostly images.
-We will impor
+The main python library for visusalization is matplotlib to visualize data through images and animations. Mostly images(.png). Better when exporting topdf or html as static images
+We will import data from crypto watch which on August 14 2025 was not avilable which is why we will use a different data source. We will use the yfinance library to get the data from Yahoo Finance. We will use the data from the past 5 years.
+    Option 2 the data from polygon s3 flatfiles for data 
+You can use a library called bokehJS to create interactive plots. It is a powerful library that can be used to create a wide range of plots, including line plots, scatter plots, bar plots, and more.
