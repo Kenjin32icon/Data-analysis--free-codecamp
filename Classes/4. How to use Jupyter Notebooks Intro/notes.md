@@ -6,6 +6,13 @@ why use jupyter notebook coz it is an interactive real time tool to explore data
 we are not directly looking at the data like in tableau, excel and not scalable for large scale data 
 jupyter notebook provides a refernce of the data making it you as commanda asking questions with a view of how the data looks like
 
+It is made up of cells which can be of three types
+1. markdown cell
+2. code cell
+3. raw cell
+and everything is done in those cells
+you can use python or any other programming language
+
  ** Question**
  What is not allowed in a Jupyter Notebook's cell?
     - Markdown
