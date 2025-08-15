@@ -34,9 +34,12 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │   └── ...other notebooks and scripts...
 │   ├── 7. Numpy Introduction A
 │   │        └──notes.md
-│   ├── 7. Numpy Introduction  b
+│   ├── 8. Numpy Introduction  b
 │   │        ├──notes.md
 │   │        └──numpy-test.ipynb
+│   ├── 8. Numpy Arrays
+│   │        ├──notes.md
+│   │        └──numpy-arrays.ipynb
 │   └── FreecodeCamp example notes
 FreeCodeCamp-Pandas-Real-Life-Example-master/
 │
