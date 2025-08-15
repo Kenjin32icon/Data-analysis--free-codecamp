@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/2. Data Analysis Example A/notes.md",
+                "file": "Classes/8. Numpy Introduction B/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,11 +170,15 @@
   },
   "active": "3837eec7da366b0c",
   "lastOpenFiles": [
+    "Classes/8. Numpy Introduction B/image/notes",
+    "Classes/8. Numpy Introduction B/image",
+    "Pasted image 20250815115241.png",
+    "Classes/7. Numpy Introduction A/notes.md",
+    "Classes/2. Data Analysis Example A/notes.md",
     "Classes/1. Introduction to Data Analysis/notes.md",
     "README.MD",
     "Classes/1. Introduction to Data Analysis",
     "Classes/Start of this course.md",
-    "Classes/2. Data Analysis Example A/notes.md",
     "FreeCodeCamp-Pandas-Real-Life-Example-master.zip",
     "Classes/2. Data Analysis Example A",
     "Classes"

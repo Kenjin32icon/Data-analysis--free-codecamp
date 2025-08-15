@@ -32,7 +32,12 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │   │   ├── notes.md
 │   │   │   └── yfinance notes from geeksforgeeks.md
 │   │   └── ...other notebooks and scripts...
-│   └── ...other class folders...
+│   ├── 7. Numpy Introduction A
+│   │        └──notes.md
+│   ├── 7. Numpy Introduction  b
+│   │        ├──notes.md
+│   │        └──numpy-test.ipynb
+│   └── FreecodeCamp example notes
 FreeCodeCamp-Pandas-Real-Life-Example-master/
 │
 ├── Exercises_1.ipynb      # Bike store sales analysis exercises
