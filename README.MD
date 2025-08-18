@@ -37,9 +37,18 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   ├── 8. Numpy Introduction  b
 │   │        ├──notes.md
 │   │        └──numpy-test.ipynb
+<<<<<<< HEAD
 │   ├── 8. Numpy Arrays
 │   │        ├──notes.md
 │   │        └──numpy-arrays.ipynb
+=======
+│   ├── 9. Numpy Arrays
+│   │        ├──notes.md
+│   │        └──numpy-arrays.ipynb
+│   ├── 10. Numpy Operations
+│   │        └──notes.md
+│   ├── NumPY.ipynb
+>>>>>>> b13a5a5 (Error of the main git rep had to delete and re-init)
 │   └── FreecodeCamp example notes
 FreeCodeCamp-Pandas-Real-Life-Example-master/
 │
