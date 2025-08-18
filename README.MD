@@ -75,6 +75,8 @@ The `Classes/` folder contains additional learning resources and practical noteb
 - **Jupyter Notebooks Importing and Exporting Data**:  
   - Practice with importing/exporting data in various formats.
   - Includes a `yfinance training` subfolder with scripts and notes for fetching and analyzing financial data from Yahoo Finance using the `yfinance` Python library.
+  - What is yfinance?
+  - The yfinance API is a powerful tool for accessing financial data from Yahoo Finance. It allows users to download historical market data, retrieve financial information, and perform various financial analyses. This API is widely used in finance, investment, and trading applications for its ease of use and comprehensive data coverage. In this article, we will explore the use yfinance API in Python with detailed examples.
   - Example:  
     - `yfinance_script.py`: Script to fetch financial data.
     - `my yfinance notes.md`: Notes and sample outputs from running the script.
