@@ -1,0 +1,1 @@
+Numpy  already contains all the low level symantics of performing linear algebra

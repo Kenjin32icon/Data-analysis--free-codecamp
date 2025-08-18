@@ -1,4 +1,4 @@
-~pandas
+pandas
 numpy
 matplotlib
 seaborn
@@ -6,3 +6,6 @@ scikit-learn
 jupyter
 requests
 yfinance
+pandas-datareader
+beautifulsoup4
+plotly

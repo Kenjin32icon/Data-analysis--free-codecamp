@@ -42,6 +42,10 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │        └──numpy-arrays.ipynb
 │   ├── 10. Numpy Operations
 │   │        └──notes.md
+│   ├── 11. Numpy Boolean Arrays
+│   │        └──notes.md
+│   ├── 10. Numpy Algebra and Size
+│   │        └──notes.md
 │   ├── NumPY.ipynb
 │   └── FreecodeCamp example notes
 FreeCodeCamp-Pandas-Real-Life-Example-master/
