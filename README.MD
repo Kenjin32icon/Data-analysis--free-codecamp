@@ -48,7 +48,11 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │        └──notes.md
 │   ├── 13. Pandas Introduction class
 │   │        └──notes.md
-│   ├── Pandas.ipynb
+│   ├── 14. Pandas Indexing and Conditional Selection
+│   │        └──notes.md
+│   ├── 15. Pandas DataFrames
+│   │        └──notes.md
+│   ├── Pandas.ipynb # for the Pandas exercises
 │   ├── NumPY.ipynb
 │   └── FreecodeCamp example notes
 FreeCodeCamp-Pandas-Real-Life-Example-master/
