@@ -1,0 +1,11 @@
+A sysmple system program that perform data analysis using the already existing libraries
+THe system should be light weight and perform data analysis following the data analysis process.
+Purpose of the system is to make it easy to perform data anlysis withe ought the need of much technical experties
+Task of the system
+    - Import data from multiple files from file and databases with simple commands which the system prompt users for example load csv files or connect to database
+    - Has already set command to perform the necessary queries that basic data analysis perform 
+    - Able to create buttons that perform custom made queries whic could be set buy user and be regularly be used instead of always need to type the command query.
+    - Make it so that when user hove over the button they a short description of the button comes up
+    - Perform data visualization by simply pressing buttons for the desierd type
+    - create simple report by combining the necessary data results form the data analysis 
+    - exporting the reports
