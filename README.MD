@@ -52,6 +52,8 @@ The course provides hands-on exercises using Python and Pandas, focusing on real
 │   │        └──notes.md
 │   ├── 15. Pandas DataFrames
 │   │        └──notes.md
+│   ├── 16. Pandas Conditional Selection and Modifying DataFrames
+│   │        └──notes.md
 │   ├── Pandas.ipynb # for the Pandas exercises
 │   ├── NumPY.ipynb
 │   └── FreecodeCamp example notes
